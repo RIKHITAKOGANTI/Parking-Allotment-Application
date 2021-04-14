@@ -25,8 +25,8 @@ public class ConfEmailServlet extends HttpServlet
         ServletContext context = getServletContext();
         host = "smtp.gmail.com";
         port = "587";
-        user = "kogantirikhita123@gmail.com";
-        pass = "rikhita123";
+        user = "User email should be given here";
+        pass = "password should be entered";
     }
  
     protected void doPost(HttpServletRequest request,
