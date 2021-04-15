@@ -1,4 +1,4 @@
-TABLES TO BE CREATED IN MYSQL WORKBENCH FOR APP TO WORK
+TABLES TO BE CREATED IN MYSQL WORKBENCH FOR WEBAPP TO WORK
 create database office;
 use office;
 #Login Table to store credentials of customers.
