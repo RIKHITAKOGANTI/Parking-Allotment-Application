@@ -11,7 +11,7 @@ public class SlotsData {
 	
 	String databaseURL = "jdbc:mysql://localhost:3306/office";
     String user = "root";
-    String password = "Rikhita123#";
+    String password = "########";
      
     public List<Slots> list() throws SQLException {
         List<Slots> listCategory = new ArrayList<>();
